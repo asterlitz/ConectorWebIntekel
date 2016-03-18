@@ -1,0 +1,11 @@
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Test.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Test.pdb
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Domain.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\EntityFramework.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Domain.pdb
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\EntityFramework.xml
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\obj\Debug\Test.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Test\obj\Debug\Test.pdb

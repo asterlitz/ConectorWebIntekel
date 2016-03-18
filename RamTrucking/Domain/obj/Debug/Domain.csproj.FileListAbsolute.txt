@@ -1,0 +1,14 @@
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\Domain.dll.config
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\Domain.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\Domain.pdb
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\obj\Debug\Interop.QBFC13Lib.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\obj\Debug\Domain.csproj.ResolveComReference.cache
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\obj\Debug\Domain.dll
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\obj\Debug\Domain.pdb
+C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

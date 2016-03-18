@@ -1,0 +1,30 @@
+﻿<Window x:Class="View.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Welcome" Height="300" Width="300" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Click="load_Click" Name="load" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">Cargar Datos</Button>
+        <DataGrid Grid.Column="1" Grid.Row="1" Name="dgFacturas" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id Factura" Binding="{Binding Path=intIdFactura}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="R.F.C." Binding="{Binding Path=Conceptos[0].Rfc}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Item" Binding="{Binding Path=Conceptos[0].Item}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Descripcion" Binding="{Binding Path=Conceptos[0].Descripcion}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Unidad" Binding="{Binding Path=Conceptos[0].Unidad}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Precio Unitario" Binding="{Binding Path=Conceptos[0].PrecioUnitario}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Cantidad En Pieza" Binding="{Binding Path=Conceptos[0].CantidadEnPieza}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Importe" Binding="{Binding Path=Conceptos[0].Importe}" Width="*"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

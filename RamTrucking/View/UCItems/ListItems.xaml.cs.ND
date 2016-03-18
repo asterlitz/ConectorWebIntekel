@@ -1,0 +1,9 @@
+// This is QuickBooks configuration File. It exists while users are connected
+// to a company file. Do not delete this file yourself. QuickBooks may not
+// operate correctly if you manually delete this file. 
+[NetConnect]
+ServerIp=fe80::3ce3:348a:b463:1322%12
+EngineName=QB_Dico7-PC_18
+ServerPort=10180
+FilePath=C:\Users\Dico7\Documents\Visual Studio 2013\Projects\RamTrucking\View\UCItems\ListItems.xaml.cs
+ServerMode=1
